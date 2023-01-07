@@ -14,7 +14,6 @@ firebase.initializeApp(firebaseConfig);
 
 // Global Doms
 const submitBtn = document.getElementById("submit");
-const uploadBtn = document.getElementById("upload");
 
 const tBody = document.getElementById("tbody");
 

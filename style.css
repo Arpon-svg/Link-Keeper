@@ -21,7 +21,7 @@ body {
   border-radius: 10px;
 }
 
-input,textarea,
+input,select,
 button {
   font-family: "poppins", sans-serif;
   border-radius: 3px;
